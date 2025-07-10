@@ -27,7 +27,6 @@ with col2:
         
         - Coffee?
         - Non Coffee?
-        - 파워에이드 감사요!
     """)
 
 # 버튼 추가
